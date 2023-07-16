@@ -1,2 +1,2 @@
 # Side
-This is a side-project folder, and will have some random analysis. 
+This is a side-project folder. Primary focus on consumer, econ, investment as personal interest.  
