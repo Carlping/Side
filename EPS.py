@@ -36,6 +36,11 @@ class AnalyticsCalculator:
         profit = (self.target_price - self.price_data[-1]) / self.price_data[-1]
         return profit
 
+    def SOTP(self, business, value):
+        con_business_value = business * value
+        enterprise_value = con_business_value - unallocat_corp_cost
+        
+
 # Sample data
 data = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 
